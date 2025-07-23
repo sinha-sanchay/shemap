@@ -41,4 +41,11 @@ A machine learning-based app to **predict the safety risk level** for women in a
 
 ---
 
-streamlit run app.py
+## 📸 Screenshots
+
+### 🔍 District Selection and Risk Prediction
+![District Selection](ss1.png)
+
+### 📊 Top Crimes Visualization
+![Crime Bar Chart](ss2.png)
+
