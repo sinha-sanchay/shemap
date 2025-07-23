@@ -41,19 +41,4 @@ A machine learning-based app to **predict the safety risk level** for women in a
 
 ---
 
-## 📦 Installation & Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/women-safety-risk-predictor.git
-cd women-safety-risk-predictor
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install requirements
-pip install -r requirements.txt
-
-# Run the app
 streamlit run app.py
